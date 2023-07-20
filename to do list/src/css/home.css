@@ -1,0 +1,26 @@
+.home{
+    color: #579BB1;
+    justify-content: center;
+      align-items: center;
+    font-family: 'Caveat', cursive;
+    /* background: linear-gradient(to top, #4c234a, #0f1532); */
+      transform-style: preserve-3d;
+      overflow: hidden;
+  
+  }
+  html {
+    height: 100%;
+  }
+  html,body{
+    height: 100vh;
+    background: linear-gradient(to top, #4c234a, #0f1532);
+  }
+  .p-sz{
+    font-size: x-small;
+  }
+  .left{
+    text-align: left;
+  }
+  .h2text{
+    color: #ffffff;
+  }
